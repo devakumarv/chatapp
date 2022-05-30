@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "216731759745",
+    "firebase_url": "https://woochat-12664-default-rtdb.firebaseio.com",
+    "project_id": "woochat-12664",
+    "storage_bucket": "woochat-12664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216731759745:android:3991b73e6266a2352d0980",
+        "android_client_info": {
+          "package_name": "com.example.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216731759745-l30gns074g8ac5ci57uvejt80rnpjeh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbekvqcdtjXoapZRcmyp6riUBtRKQvkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216731759745-l30gns074g8ac5ci57uvejt80rnpjeh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216731759745:android:108165d84cdc4ca62d0980",
+        "android_client_info": {
+          "package_name": "com.example.woodate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216731759745-l30gns074g8ac5ci57uvejt80rnpjeh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbekvqcdtjXoapZRcmyp6riUBtRKQvkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216731759745-l30gns074g8ac5ci57uvejt80rnpjeh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
